@@ -1,0 +1,1 @@
+print(eval(Meta.parse(replace(read("input.txt", String), r"\r\n" => s" "))))
